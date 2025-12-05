@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CleanSpeech UI" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.tanush.cleanspeech.ui.CleanSpeechUI" />
+    <module name="voice" />
+    <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Documents/java_stuff/javafx-sdk-25.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics --enable-native-access=javafx.graphics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
